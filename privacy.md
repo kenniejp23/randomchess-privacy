@@ -1,0 +1,41 @@
+# Privacy Policy for Random Chess
+Effective date: April 9, 2026
+
+## 1. Who we are
+Developer contact: <your support email>
+
+## 2. Data we collect
+- Account identifiers (Google sign-in UID, username)
+- Optional profile photo URL
+- Gameplay/match data (moves, outcomes, ratings)
+- Device/app diagnostics (crash/performance logs)
+- Push token (FCM token) for turn notifications
+- Advertising identifiers/events (if ads enabled)
+
+## 3. Why we use data
+- Run online matches, friends, rematches, Elo
+- Show notifications
+- Improve stability/performance
+- Serve and measure ads
+
+## 4. Sharing
+- Firebase services (Auth, Firestore, Messaging, Crashlytics)
+- Google Mobile Ads (if enabled)
+
+## 5. Retention
+- Match/account data retained while account is active
+- Diagnostics retained per provider retention windows
+
+## 6. Your choices
+- Disable notifications in app/system settings
+- Stop using online features
+- Request account/data deletion via: <deletion/contact URL or email>
+
+## 7. Children
+- Not directed to children under applicable local age thresholds.
+
+## 8. Changes
+- Policy updates will be posted at this URL with updated effective date.
+
+## 9. Contact
+kjalsoftware@gmail.com
