@@ -29,13 +29,16 @@ This privacy policy applies to the Android app Random Chess.
 - Google Mobile Ads (if enabled)
 
 ## 5. Retention
-- Match/account data retained while account is active
-- Diagnostics retained per provider retention windows
+- Match/account data is retained while your Random Chess account is active.
+- Gameplay records may be retained to support match history, rankings, abuse prevention, and dispute resolution.
+- Device/app diagnostics are retained according to Firebase Crashlytics provider retention windows.
+- Advertising and consent records are retained according to Google Mobile Ads and Google consent provider retention windows.
 
 ## 6. Your choices
 - Disable notifications in app/system settings
 - Stop using online features
-- Request account/data deletion via: kjalsoftware@gmail.com
+- Right to delete: you can request deletion of your Random Chess account data by emailing kjalsoftware@gmail.com.
+- Deletion requests should include the username or Google sign-in email used for Random Chess so we can identify the correct account.
 
 ## 7. Children
 - Not directed to children under applicable local age thresholds.
