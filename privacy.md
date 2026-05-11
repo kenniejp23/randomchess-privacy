@@ -1,8 +1,14 @@
 # Privacy Policy for Random Chess
-Effective date: April 9, 2026
+Effective date: May 11, 2026
 
 ## 1. Who we are
-Developer contact: <your support email>
+This privacy policy applies to the Android app Random Chess.
+
+App name: Random Chess
+Package name: uk.co.pullen.randomchess
+Google Play developer account name: KJAL
+Developer account type: Personal account
+Developer contact email: kjalsoftware@gmail.com
 
 ## 2. Data we collect
 - Account identifiers (Google sign-in UID, username)
@@ -29,7 +35,7 @@ Developer contact: <your support email>
 ## 6. Your choices
 - Disable notifications in app/system settings
 - Stop using online features
-- Request account/data deletion via: <deletion/contact URL or email>
+- Request account/data deletion via: kjalsoftware@gmail.com
 
 ## 7. Children
 - Not directed to children under applicable local age thresholds.
